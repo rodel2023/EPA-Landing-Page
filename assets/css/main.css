@@ -34,9 +34,9 @@
 /* Nav Menu Colors */
 :root {
   --nav-color: #3a3939;
-  --nav-hover-color: #e84545;
+  --nav-hover-color: #CBA93A;
   --nav-dropdown-color: #3a3939;
-  --nav-dropdown-hover-color: #e84545;
+  --nav-dropdown-hover-color: #CBA93A;
   --nav-dropdown-background-color: #ffffff;
   --nav-mobile-background-color: #ffffff;
 }
@@ -434,7 +434,7 @@ section {
   }
   
   .testi-image {
-    height: 80%;
+    height: 100%;
   }
   .testi-video {
     height: 90%; 
@@ -486,7 +486,7 @@ section {
     margin-right: 10px;
     cursor: pointer;
     transition: color 0.3s;
-    display:none;
+    /* display:none; */
   }
 
   .navmenu {
@@ -606,13 +606,14 @@ section {
 
   /* My Code */
   .testi-image {
-    height: 80%;
+    height: 90%;
+    width: 80%;
   }
 
   .testi-video {
     height: 100%;
     width: 100%;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
   }
 
   .testi-row {
@@ -974,6 +975,43 @@ section {
   background-color: rgba(var(--primary-color-rgb), 0.9);
 }
 
+.hero-about {
+  --default-color: #ffffff;
+  --default-color-rgb: 255, 255, 255;
+  --background-color: #000000;
+  --background-color-rgb: 0, 0, 0;
+  width: 100%;
+  min-height: 30vh;
+  position: relative;
+  padding: 160px 0 80px 0;
+  display: flex;
+}
+
+
+.hero-about img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  z-index: 1;
+}
+.hero-about .container {
+  position: relative;
+  z-index: 3;
+}
+
+.hero-about h2 {
+  color: var(--contrast-color);
+  margin: 0 auto;
+  font-size: 44px;
+  font-weight: 700;
+  width: 80%;
+  margin-top: 3rem;
+}
+
 
 .sub-action {
   padding: 4.5rem;
@@ -1021,6 +1059,12 @@ section {
       border-radius: 10px;
     }
     .hr-mid {
+      width: 20%;
+      border: 3px solid #CBA93A; 
+      border-radius: 10px;
+      margin: 0 auto; 
+    }
+    .hr-mid-nav {
       width: 20%;
       border: 3px solid #CBA93A; 
       border-radius: 10px;
@@ -1097,7 +1141,7 @@ section {
 }
 
 .about-boss {
-  width: 95% !important; 
+  width: 90% !important; 
   margin: 0 auto;
 }
 .about-boss h4 {
@@ -1164,6 +1208,10 @@ section {
       border: 2px solid #CBA93A; 
     }
     .hr-mid {
+      border: 2px solid #CBA93A; 
+    }
+    .hr-mid-nav {
+      width: 60%;
       border: 2px solid #CBA93A; 
     }
     .hr-footer {

@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Email Profit Academy</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo-icon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Append
+  * Updated: Sep 18 2023 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page" data-bs-spy="scroll" data-bs-target="#navmenu">
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header fixed-top d-flex align-items-center">
+    <!-- <div class="container d-flex align-items-center justify-content-between"> -->
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <img src="assets/img/logo-epa.png" alt="">
+      </a>
+
+      <!-- Nav Menu -->
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="index.php" class="active">Home</a></li>
+          <li><a href="blog.php">Blog</a></li>
+          <li><a href="about.php">About</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+      <!-- End Nav Menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- Hero Section - Home Page -->
+    <section id="hero" class="hero" style="padding: 6rem 0 0 !important;">
+      <img src="assets/img/bg1.png" alt="" data-aos="fade-in">
+        <div class="container text-center">
+          <h2 data-aos="fade-up">
+            Build a Highy Profitable Online Business Using Nothing But Emails!</h2>
+
+          <div class="mt-3 cta-video" data-aos="fade-up">
+            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/915009998?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="EPA_SalesVideo1_FINAL"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+          </div>
+
+          <p class="mt-2" data-aos="fade-up">With the help of <i><span style="color: #CBA93A;"><b>Email Profit Academy </b></span></i>you can create the perfect online business to achieve your dreams of financial and personal freedom – all without touching a single product.</p>
+        </div>
+    </section><!-- End Hero Section -->
+
+    <div class="sub-action" data-aos="fade-up">
+      <div class="container">
+            <!-- <h4 class="text-center" data-aos="fade-up" data-aos-delay="100">Start learning the simple yet effective techniques today by downloading your FREE <br><span style="color: #CBA93A;"> “Email Profit Blueprint”</span></h4> -->
+            <h4 class="text-center">
+              <i>
+                Start Your Email Profit Journey by applying for your FREE business consultation call to find out if this is for you!
+              </i>
+            </h4>
+
+      </div>
+    </div><!-- End Hero Section -->
+
+    <!-- Boss needs -->
+    <!-- Services Section - Home Page -->
+    <section id="services" class="services">
+      <!--  Section Title -->
+      <div class="container pt-5 pb-5">
+
+        <div class="row gy-4 row no-gutters">
+
+          <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100" style="border-right: 1px solid #CBA93A; border-bottom: 1px solid #CBA93A;">
+            <div class="d-flex">
+              <div class="row">
+                <div class="col-1">
+                <i class="bi bi-gear-wide-connected" style="font-size: 30px;"></i>
+                </div>
+                <div class="col-11">
+                  <div>
+                    <h4 class="title">A Fully Functional Business</h4>
+                    <p class="description">Covering everything from discovering your niche to identifying price points, you’ll get the benefit of Shawn’s intensive experience and genius in making money (a LOT of money!) through emails alone.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Service Item -->
+          <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100" style="border-left: 1px solid #CBA93A; border-bottom: 1px solid #CBA93A;">
+            <div class=" d-flex">
+              <div class="row">
+                <div class="col-11" style="text-align: right;">
+                  <div>
+                    <h4 class="title">Any Time, Any Place, Anywhere</h4>
+                    <p class="description">Learn how to build your online business from the ground up without the limitation of having a physical product. In fact, this is a business you can run from anywhere in the world, in any time zone!</p>
+                  </div>
+                </div>
+                <div class="col-1">
+                <i class="bi bi-calendar-check" style="font-size: 30px;"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Service Item -->
+          <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100" style="border-right: 1px solid #CBA93A; border-top: 1px solid #CBA93A;">
+            <div class=" d-flex">
+              <div class="row">
+                <div class="col-1">
+                  <i class="bi bi-arrow-counterclockwise" style="font-size: 30px;"></i>
+                </div>
+                <div class="col-11">
+                  <div>
+                    <h4 class="title">Highly Predictable ROI </h4>
+                    <p class="description">If you’re looking for a business with a highly predictable return on your investment, with a projected $1,000 per month income within three months and scaling to $5,000-$10,000 within the next 6 to 12 months, then <i><b>Email Profit Academy</b></i> is for you.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Service Item -->
+          <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100" style="border-left: 1px solid #CBA93A; border-top: 1px solid #CBA93A;">
+            <div class=" d-flex">
+              <div class="row">
+                <div class="col-11" style="text-align: right;">
+                  <div>
+                    <h4 class="title">Take Control Of Your Future</h4>
+                    <p class="description">With our support you can take control of your life, your business, and your bank balance. If you’re ready to dream big, we can show you how to make a full-time income by sending simple emails.</p>
+                  </div>
+                </div>
+                <div class="col-1">
+                  <i class="bi bi-people" style="font-size: 30px;"></i>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <!-- End Service Item -->
+
+        </div>
+
+
+      </div>
+
+    </section><!-- End Services Section -->
+
+
+    <section id="about" class="about" style="padding:0; margin: 0;">
+
+      <div class="container pt-5" data-aos="fade-up" data-aos-delay="100">
+        <div class="row">
+          <div class="col-md-8 col-12 pt-5 order-2 order-md-1 order-lg-1">
+          <h1 class="text-center mb-4">About Email Profit Academy</h1>
+          <hr data-aos="fade-up" class="hr-mid">
+          <h4 class="text-center mt-4">
+            <b><i><span style="color:#CBA93A;"> Email Profit Academy </span></i></b>is an online mentoring and training service that gives you a clear direction when it comes to email marketing. The results will be your very own profitable online business, built with integrity and professionalism.
+          </h4>
+
+          <br> <br> <br>
+          <h4 class="text-center start-learning">
+            <i>
+             <!-- Start learning the simple yet effective techniques today by downloading your FREE 
+              “Email Profit Blueprint”  -->
+              Start your email profit journey by applying for your FREE business consultation call to find out if this is for you!
+            </i>
+          </h4>
+          </div>
+          <div class="col-md-4 col-12 order-1 order-md-2 order-lg-2" style="padding:0; margin: 0;">
+            <img src="assets/img/lp2.png" alt="" class="img-fluid">
+          </div>
+        </div>
+      </div>
+
+    </section><!-- End About Section -->
+
+    <section id="services" class="services testi-1">
+      <!--  Section Title -->
+      <div class="container pt-2 pb-5 text-center"data-aos="fade-up" >
+          <h1 data-aos="fade-up">Testimonials</h1>
+          <hr data-aos="fade-up" class="hr-mid">
+          <h4 data-aos="fade-up" class="mt-3 testi-below">
+            Shawn Has Transformed <u>4 Ordinary Individuals</u> Into Online Millionaires, And Many More Have Since Replace Their Full-Time Jobs As Email Profit Academy Graduates
+          </h4>
+
+          <br>
+          <br>
+          <h4>Follow Joshua Ong's Journey To $500k In One Year As An Ex Full-Time Nurse!</h4>
+          <div class="row testi-row">
+            <div class="col-lg-3 col-md-4 col-sm-3 col-12" style="padding:0 !important;">
+              <img src="assets/img/testimonials/joshua_ong2.png" class="testi-image img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 col-sm-9 col-12">
+              <div class="testi-video">
+                  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/841145140?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="1. Joshua Ong"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              </div>
+            </div>
+          </div>
+          <br>
+          <br>
+          <h4>Follow Dan Khan's Journey To $100k/Month As A University Dropout!</h4>
+          <div class="row testi-row">
+            <div class="col-lg-3 col-md-4 col-sm-3 col-12" style="padding:0 !important;">
+              <img src="assets/img/testimonials/dan_khan2.png" alt="" class="testi-image img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 col-sm-9 col-12">
+              <div class="testi-video">
+                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/841144970?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2. Dan Khan"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              </div>
+            </div>
+          </div>
+          <br>
+          <br>
+          <h4>Follow Matthew Tang's Journey To Clickbank Platinum As A University Graduate!</h4>
+          <div class="row testi-row">
+            <div class="col-lg-3 col-md-4 col-sm-3 col-12" style="padding:0 !important;">
+              <img src="assets/img/testimonials/matthew.png" alt="" class="testi-image img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 col-sm-9 col-12">
+              <div class="testi-video">
+                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/844466138?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3. Matthew Tang"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              </div>
+            </div>
+          </div>
+          <br>
+          <br>
+          <h4>Follow Yonah Li's Journey To Clickbank Platinum As A University Graduate!</h4>
+          <div class="row testi-row">
+            <div class="col-lg-3 col-md-4 col-sm-3 col-12" style="padding:0 !important;">
+              <img src="assets/img/testimonials/yonah.png" alt="" class="testi-image img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 col-sm-9 col-12">
+              <div class="testi-video">
+                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/844496870?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="4. Yonah Li"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              </div>
+            </div>
+          </div>
+      </div>
+
+    </section><!-- End Services Section -->
+
+    <div class="sub-action-testi"  data-aos="fade-up" data-aos-delay="100">
+      <div class="container text-center">
+          <h4>Follow Macus's Journey To <b>$12,000/Month As A School Teacher!</b></h4>
+          <div class="row testi-row">
+            <div class="col-lg-3 col-md-4 col-sm-3 col-12 pt-3">
+              <img src="assets/img/testimonials/macus.png" alt="" class="test-image img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 col-sm-9 col-12">
+              <div class="testi-video">
+                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/844782647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="5. Macus"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              </div>
+            </div>
+          </div>
+          <div class="white-space-testi"></div>
+          <h4>Cliff Made Over <b>$10,000 As A 67/year Old Retired</b></h4>
+          <div class="row testi-row">
+            <div class="col-lg-3 col-md-4 col-sm-3 col-12 pt-3">
+              <img src="assets/img/testimonials/cliff.png" alt="" class="test-image img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 col-sm-9 col-12">
+              <div class="testi-video">
+                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/854294462?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Cliff Lynch"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              </div>
+            </div>
+          </div>
+          <div class="white-space-testi"></div>
+          <h4>Carlos Made <b>$243.92 In One Day</b> As A Truck Driver!</h4>
+          <div class="row testi-row">
+            <div class="col-lg-3 col-md-4 col-sm-3 col-12 pt-3">
+              <img src="assets/img/testimonials/carlos.png" alt="" class="test-image img-fluid">
+            </div>
+            <div class="col-lg-9 col-md-8 col-sm-9 col-12">
+              <div class="testi-video">
+                <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/844798289?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="7. Carlos"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div><!-- End Hero Section -->
+
+    <!-- Features Section - Home Page -->
+    <section id="features" class="features">
+
+      <!--  Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Testimonials</h2>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4 align-items-center">
+          <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/z3y8Qwn-Cu0?si=Giscfpwka0vdVHqM" title="YouTube video player" allowfullscreen></iframe>
+            </div>
+                <!-- <iframe width="620" height="345" src="https://www.youtube.com/embed/z3y8Qwn-Cu0?si=Giscfpwka0vdVHqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+            <h4 class="text-center mt-3">Raffy's Testimonial</h4>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="200">
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/4Nu1QTGgBwU?si=EvYZBEJ-EBRs8Gox" title="YouTube video player" allowfullscreen></iframe>
+            </div>
+              <!-- <iframe width="620" height="345" src="https://www.youtube.com/embed/4Nu1QTGgBwU?si=EvYZBEJ-EBRs8Gox" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+            <h4 class="text-center mt-3">Macus's Testimonial</h4>
+          </div>
+        </div><!-- Features Item -->
+
+        <br> <br>
+        <div class="row testi-text"data-aos="fade-up" >
+          <div class="col-3">
+            <img src="assets/img/testimonials/matthew_self.jpg" class="rounded-circle img-fluid" alt="Matthew" width="250">
+          </div>
+          <div class="col-9">
+            <h5>
+              <i> "I recently graduated about three and a half months ago, and the results are truly transformational, it's massive! I joined Shawn's Programme and I made over $1.5k in just a single month. The system works, the mentorship works, Shawn is the real deal, and it's really up to you - if today you're able to make  three or four thousand dollars extra, how would that change our life? By just joining, making that desision, you'll definitely change your life."</i>
+              <br>
+              <br>
+              <b>
+                <span style="color:#CBA93A">
+                  Matthew
+                </span>
+                <br>
+                Undergraduate making US$1.5k/month after 3 months
+              </b>
+            </h5>
+          </div>
+        </div>
+        <br> <br>
+        <div class="row testi-text"data-aos="fade-up" >
+          <div class="col-3">
+            <img src="assets/img/testimonials/amit_self.jpg" class="rounded-circle img-fluid" alt="Matthew" width="250">
+          </div>
+          <div class="col-9">
+            <h5>
+              <i> 
+                "I just want to give a big shout out and really heartfelt thanks and gratitude to Shawn. I've been working with him now for just over two weeks, since the initial starting on the course and entering his mentorship a week later, and just really wanted to send my appreciation as it's been an amazing week. Just over $484 in one week and one day, and in the region of around 930 subs-couldn't have done it without him, he's just given me a ready-made business, he guided me through the steps, and the encouragement of him and the group has been amazing. I just really wanted to give my appreciation to Shawn - thank you for everything you've done. You've been a brilliant mentor and I look forward to continuing the success and the journey alongside you."
+              </i>
+              <br>
+              <br>
+              <b>
+                <span style="color:#CBA93A">
+                  Amit
+                </span>
+                <br>
+                Computer Engineer who has made US$484 in just 1 week
+              </b>
+            </h5>
+          </div>
+        </div>
+        <br> <br>
+        <div class="row testi-text"data-aos="fade-up" >
+          <div class="col-3">
+            <img src="assets/img/testimonials/macus_self.jpg" class="rounded-circle img-fluid" alt="Matthew" width="250">
+          </div>
+          <div class="col-9">
+            <h5>
+              <i> 
+                "I just want to do a quick shout out to Shawn, my mentor. My goal in the past was just to get $500 per week, which gradually increased so much that now I've made $1k per week over two consecutive weeks. For that, I need to say THANK YOU to Shawn for constantly motivating us and to always getting us on track, and for helping me to reach this incredible win. Thank you, Shawn, for persevering and helping me get to where I am now!."
+              </i>
+              <br>
+              <br>
+              <b>
+                <span style="color:#CBA93A">
+                  Macus
+                </span>
+                <br>
+                School Teacher generating US$3.2K/month after 7 months
+              </b>
+            </h5>
+          </div>
+        </div>
+
+        <br> <br> <br>
+          <hr data-aos="fade-up" class="hr-mid">
+         <br>
+        <h2 data-aos="fade-up" class="text-center" style="width: 80%; margin: 0 auto; color: rgb(29, 28, 28);"><i>Start your email profit journey by applying for your FREE business consultation call to find out if this is for you!</i></h2>
+
+
+      </div>
+
+    </section><!-- End Features Section -->
+
+    <!-- About Section - Home Page -->
+    <section id="about" class="about" style="background-color: rgb(32, 32, 32);">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <!-- <h2 class="text-center" style="width: 75%; margin: 0 auto; color: rgb(243, 243, 243);"><i>Start your email profit journey by applying for your FREE business consultation call to find out if this is for you!</i></h2>
+        <br> <br> <br> -->
+        <h2 class="text-center">
+          <b style="color: rgb(243, 243, 243);">
+          Introducing…
+          <br>
+          <i>
+            <span style="color:#CBA93A;">
+            The 7 Steps Email Profit System
+            </span>
+          </i>
+          </b>
+        </h2>
+        <br> 
+        <h4 style="color: rgb(243, 243, 243); width: 80%; margin: 0 auto; text-align: justify;">
+          An exciting seven module online coaching and training programme that will give you everything you need to build a six-figure online business using emails alone!
+          <br>
+          <br>
+          Learn how you too can build and run a highly profitable business from anywhere in the world, and create for yourself, a fully functional email marketing business in 5 days or less!
+        </h4>
+        <br> <br>
+        <h5 class="text-center" style="color: #CBA93A; width: 80%; margin: 0 auto;">
+          INTRODUCING THE EMAIL PROFIT ACADEMY'S EXTRAORDINARY NEW COURSE, THE 7 STEPS EMAIL PROFIT SYSTEM...
+        </h5>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 g-4 seven-steps">
+      <div class="col">
+        <div class="card">
+          <div class="card-header text-white text-center">
+            STEP ONE: Finding a Niche
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              The first step in any online business, finding a niche might seem easy - but the important thing here is finding a profitable niche.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-header text-white text-center">
+            STEP TWO: Ethical Bribe
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              To make a six-figure income using nothing but emails (to make ANY income using nothing but emails, in fact!), you're going to need to builld a strong email list of people who actually want to hear from you. How? By using an ethical bribe!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-header text-white text-center">
+            STEP THREE: Capture Page
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              Once you know whatt your ethical bribe is going to be, you'll need to make sure you have a way of getting those email anddresses. That's  where your capture page comes in!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-header text-white text-center">
+            STEP FOUR: Traffic
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              From free traffic (using Facebook, YouTube, and blogging), to pagid traffic and ads.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-header text-white text-center">
+            STEP FIVE: Email Auto Responders
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              What they are and why you need them - you'll learn absolutely everything you need to know in this module, from email templates to tried and tested mailing strategies.
+
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-header text-white text-center">
+            STEP SIX: Finding a Product
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              Even though you won't be handling a physical product, your online email business will of course need one - so here's how to pick the perfect product.
+
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-header text-white text-center">
+            STEP SEVEN: Scaling Up
+          </div>
+          <div class="card-body">
+            <p class="card-text">
+              The final module takes you through how to scale up your business for ultimate success and a shot at the best opportunities.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
+
+    </section><!-- End About Section -->
+
+    <!-- Features Section - Home Page -->
+    <section>
+
+      <div class="container" data-aos="fade-up">
+        <div class="blog-boss">
+          <h3 class="text-center">
+            <i>
+             Start your email profit journey by applying for your FREE business consultation call to find out if this is for you! 
+            </i>
+          </h3>
+
+        </div>
+
+      </div>
+
+    </section><!-- End Features Section -->
+
+
+
+    <!-- Boss needs -->
+
+
+
+    <!-- Contact Section - Home Page -->
+    <!-- <section id="contact" class="contact">
+        <div class="container section-title" data-aos="fade-up">
+            <br>
+              <h4 class="text-center">
+                <i>
+                  Start your email profit journey by applying for your FREE business consultation call to find out if this is for you!
+                </i>
+              </h4>
+        </div>
+
+    </section> -->
+
+  </main>
+
+              <!-- <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+              <div class="row gy-4">
+
+                <div class="col-md-6">
+                  <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+                </div>
+
+                <div class="col-md-6 ">
+                  <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+                </div>
+
+                <div class="col-md-12">
+                  <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+                </div>
+
+                <div class="col-md-12">
+                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                </div>
+
+                <div class="col-md-12 text-center">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                  <button type="submit">Send Message</button>
+                </div>
+
+              </div>
+            </form> -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="container footer-top" data-aos="fade-up">
+      <!-- <h3>
+        Start your email profit journey by applying for your FREE business consultation call to find out if this is for you!
+      </h3> -->
+      <br> <br> <br>
+      <hr data-aos="fade-up" class="hr-footer">
+      <br>
+      <br>
+      <div class="row gy-4">
+        <div class="col-lg-6 col-md-12 col-12 footer-about">
+          <h2>What makes us different?</h2>
+          <p>
+            In just five short years, Shawn Josiah had built up a list of 432,924 unique and highly responsive subscribers and is making over $100,000 per month on average. Unlike some affiliate email marketing gurus, we train you in absolutely everything you’ll need to maximise your success and your income – from creation, to execution, to monetization. Till date, Shawn has created 4 millionaire students, dozens of 5-figure a month earners and a track record of 100% of his graduates making money after the program!
+            </p>
+        </div>
+
+        <div class="col-lg-6 col-md-12 col-12 footer-links">
+          <h2>Contact Details</h2>
+          <div class="text-left">
+          <i class="bi bi-geo-alt" style="font-size: 20px; margin-right: 0.5rem;"></i>
+              31 Rochester Drive, Penthouse Level 24 Suite 22, Singapore 138637
+          </div>
+          <div class="text-left">
+          <i class="bi bi-envelope" style="font-size: 20px; margin-right: 0.5rem;"></i> 
+            <a href = "mailto: support@emailprofit.academy"><u>Support@emailprofit.academy</u></a>
+          </div>
+        </div>
+
+      </div>
+
+      <hr data-aos="fade-up" class="hr-footer">
+      <!-- <hr style="border: 3px solid #CBA93A;"> -->
+      <br>
+        <div class="text-center">
+              <p>&copy; <span>2024 Email Profit Academy. All Rights Reserved | Privacy Policy </span> 
+        </div>
+        <br>
+    </div>
+
+  </footer><!-- End Footer -->
+
+  <!-- Scroll Top Button -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
